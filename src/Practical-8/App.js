@@ -1,5 +1,5 @@
-import Counter from './Components/Counter';
-import MoreLess from './Components/MoreLess';
+import Counter from './Counter';
+import MoreLess from './MoreLess';
 
 function App() {
   return (
